@@ -17,6 +17,9 @@ Hello! I'm Nathaniel Lemuel Chandra, a 19 year-old programmer passionate about c
   <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" style="margin:10px; height:40px;" />
 </div>
 
+<br>
+
+
 <table border="0" style="margin-bottom:30px;">
   <tr>
     <td style="padding:10px;">
