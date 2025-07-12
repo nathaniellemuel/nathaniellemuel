@@ -20,6 +20,7 @@ Hello! I'm Nathaniel Lemuel Chandra, a 19 year-old programmer passionate about c
 <br>
 <br>
 
+## Stats
 <table border="0" style="margin-bottom:30px;">
   <tr>
     <td style="padding:10px;">
@@ -31,7 +32,6 @@ Hello! I'm Nathaniel Lemuel Chandra, a 19 year-old programmer passionate about c
   </tr>
 </table>
 
-<br>
 <br>
 
 <img src="https://raw.githubusercontent.com/nathaniellemuel/nathaniellemuel/output/snake.svg" alt="Snake animation" />
