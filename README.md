@@ -3,7 +3,8 @@
 Hello! I'm Nathaniel Lemuel Chandra, a 19 year-old programmer passionate about coding. Currently studying Computer Science at Universitas Bina Sarana Informatika and Law at Universitas Terbuka, I enjoy building dynamic, responsive web applications and delving into data science, cybersecurity, and software development. My journey in tech is driven by curiosity and a commitment to delivering impactful solutions. Feel free to explore my work and connect! <a href="nathaniellemuel.github.io">Visit My Website</a>
 
 ## Expertise 
-<div>
+
+<div style="margin-bottom:30px;">
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" style="margin:10px; height:40px;" />
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" style="margin:10px; height:40px;" />
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" style="margin:10px; height:40px;" />
@@ -16,7 +17,7 @@ Hello! I'm Nathaniel Lemuel Chandra, a 19 year-old programmer passionate about c
   <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" style="margin:10px; height:40px;" />
 </div>
 
-<table border="0">
+<table border="0" style="margin-bottom:30px;">
   <tr>
     <td style="padding:10px;">
       <img src="https://nirzak-streak-stats.vercel.app/?user=nathaniellemuel&theme=dark&hide_border=false" />
