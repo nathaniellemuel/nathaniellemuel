@@ -17,10 +17,17 @@ Hello! I'm Nathaniel Lemuel Chandra, a 19 year-old programmer passionate about c
 </div>
 
 
-<div>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=nathaniellemuel&theme=dark&hide_border=false" />
-  <img src="https://github-readme-stats.vercel.app/api?username=nathaniellemuel&theme=dark&hide_border=false&include_all_commits=true&count_private=true" />
-</div>
+<table>
+  <tr>
+    <td>
+      <img src="https://nirzak-streak-stats.vercel.app/?user=nathaniellemuel&theme=dark&hide_border=false" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=nathaniellemuel&theme=dark&hide_border=false&include_all_commits=true&count_private=true" />
+    </td>
+  </tr>
+</table>
+
 
 <img src="https://raw.githubusercontent.com/nathaniellemuel/nathaniellemuel/output/snake.svg" alt="Snake animation" />
 
