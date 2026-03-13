@@ -1,6 +1,6 @@
 ![Nathaniel Lemuel Chandra](img/github-header-image.png)
 
-Hello! I'm Nathaniel Lemuel Chandra, a 19 year-old programmer passionate about coding. Currently studying Computer Science at Universitas Bina Sarana Informatika and Law at Universitas Terbuka, I enjoy building dynamic, responsive web applications and delving into data science, cybersecurity, and software development. My journey in tech is driven by curiosity and a commitment to delivering impactful solutions. Feel free to explore my work and connect! <a href="nathaniellemuel.github.io">Visit My Website</a>
+Hello! I'm Nathaniel Lemuel Chandra, a 19 year-old programmer passionate about coding. Currently studying Computer Science at Universitas Bina Sarana Informatika and Law at Universitas Terbuka, I enjoy building dynamic, responsive web applications and delving into data science, cybersecurity, and software development. My journey in tech is driven by curiosity and a commitment to delivering impactful solutions. Feel free to explore my work and connect! <a href="https://nathaniellemuelchandra.vercel.app/">Visit My Website</a>
 
 ## Expertise 
 
