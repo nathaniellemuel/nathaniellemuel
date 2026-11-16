@@ -1,40 +1,80 @@
-![Nathaniel Lemuel Chandra](img/github-header-image.png)
+<div align="center">
 
-Hello! I'm Nathaniel Lemuel Chandra, a 19 year-old programmer passionate about coding. Currently studying Computer Science at Universitas Bina Sarana Informatika and Law at Universitas Terbuka, I enjoy building dynamic, responsive web applications and delving into data science, cybersecurity, and software development. My journey in tech is driven by curiosity and a commitment to delivering impactful solutions. Feel free to explore my work and connect! <a href="https://nathaniellemuelchandra.vercel.app/">Visit My Website</a>
+<img src="img/github-header-image.png" alt="Nathaniel Lemuel Chandra – Programmer" width="100%" />
 
-## Expertise 
+# Hi, I'm Nathaniel Lemuel Chandra 👋
 
-<div style="margin-bottom:30px;">
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" style="margin:10px; height:40px;" />
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" style="margin:10px; height:40px;" />
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" style="margin:10px; height:40px;" />
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" style="margin:10px; height:40px;" />
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" style="margin:10px; height:40px;" />
-  <img src="https://img.shields.io/badge/javafx-%23FF0000.svg?style=for-the-badge&logo=javafx&logoColor=white" style="margin:10px; height:40px;" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" style="margin:10px; height:40px;" />
-  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" style="margin:10px; height:40px;" />
-  <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" style="margin:10px; height:40px;" />
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" style="margin:10px; height:40px;" />
-  <img src="https://img.shields.io/badge/fortran-734F96?style=for-the-badge&logo=fortran&logoColor=white" style="margin:10px; height:40px;" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" style="margin:10px; height:40px;" />
-  
+**Computer Science student · Law student · Software developer**
+
+[![Website](https://img.shields.io/badge/Website-nathaniellemuelchandra.vercel.app-000000?style=flat-square&logo=vercel&logoColor=white)](https://nathaniellemuelchandra.vercel.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-nathaniellemuel-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/nathaniellemuel)
+
 </div>
 
-<br>
-<br>
+---
 
-## Stats
-<table border="0" style="margin-bottom:30px;">
-  <tr>
-    <td style="padding:10px;">
-      <img src="https://github-readme-stats.vercel.app/api?username=nathaniellemuel&theme=dark&hide_border=false&include_all_commits=true&count_private=true" />
-    </td>
-    <td style="padding:10px;">
-      <img src="https://nirzak-streak-stats.vercel.app/?user=nathaniellemuel&theme=dark&hide_border=false" />
-    </td>
-  </tr>
-</table>
+## About Me
 
-<br>
+I'm a programmer studying **Computer Science** at Universitas Bina Sarana Informatika and **Law** at Universitas Terbuka. I enjoy building dynamic, responsive web applications and exploring **data science**, **cybersecurity**, and **software development**.
 
-<img src="https://raw.githubusercontent.com/nathaniellemuel/nathaniellemuel/output/snake.svg" alt="Snake animation" />
+My work is driven by curiosity and a commitment to delivering solutions that are useful, reliable, and well built.
+
+## Tech Stack
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Fortran](https://img.shields.io/badge/Fortran-734F96?style=flat-square&logo=fortran&logoColor=white)
+
+**Web & Mobile**
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![JavaFX](https://img.shields.io/badge/JavaFX-FF0000?style=flat-square)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
+
+**Database & Tools**
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
+<!--
+## Featured Projects
+
+Uncomment this section and fill in your best 2–4 projects.
+
+| Project | Description | Tech |
+| --- | --- | --- |
+| [Project name](https://github.com/nathaniellemuel/REPO_NAME) | One sentence on what it does and why it matters | Tech A, Tech B |
+-->
+
+## GitHub Stats
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=nathaniellemuel&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true">
+  <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=nathaniellemuel&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true" height="180">
+</picture>
+&nbsp;
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://nirzak-streak-stats.vercel.app/?user=nathaniellemuel&theme=dark&hide_border=true">
+  <img alt="GitHub streak" src="https://nirzak-streak-stats.vercel.app/?user=nathaniellemuel&theme=default&hide_border=true" height="180">
+</picture>
+
+<br><br>
+
+<img src="https://raw.githubusercontent.com/nathaniellemuel/nathaniellemuel/output/snake.svg" alt="Contribution graph snake animation" />
+
+</div>
+
+<!--
+## Contact
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-USERNAME)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:YOUR-EMAIL)
+-->
