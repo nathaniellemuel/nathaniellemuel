@@ -44,13 +44,6 @@ My work is driven by curiosity and a commitment to delivering solutions that are
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
-## Focus Areas
-
-- **Web Development** — dynamic, responsive web applications
-- **Data Science** — working with data to find useful insights
-- **Cybersecurity** — learning how to build and keep systems secure
-- **Software Development** — clean, maintainable, well-built software
-
 <!--
 ## Featured Projects
 
@@ -61,9 +54,34 @@ Uncomment this section and fill in your best 2–4 projects.
 | [Project name](https://github.com/nathaniellemuel/REPO_NAME) | One sentence on what it does and why it matters | Tech A, Tech B |
 -->
 
-## Contribution Activity
+## GitHub Stats
 
 <div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="profile-summary-card-output/github_dark/0-profile-details.svg">
+  <img alt="Profile details" src="profile-summary-card-output/github/0-profile-details.svg" width="49%">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="profile-summary-card-output/github_dark/3-stats.svg">
+  <img alt="GitHub stats" src="profile-summary-card-output/github/3-stats.svg" width="49%">
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="profile-summary-card-output/github_dark/1-repos-per-language.svg">
+  <img alt="Top languages by repository" src="profile-summary-card-output/github/1-repos-per-language.svg" width="49%">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="profile-summary-card-output/github_dark/2-most-commit-language.svg">
+  <img alt="Top languages by commits" src="profile-summary-card-output/github/2-most-commit-language.svg" width="49%">
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="profile-summary-card-output/github_dark/4-productive-time.svg">
+  <img alt="Productive time" src="profile-summary-card-output/github/4-productive-time.svg" width="60%">
+</picture>
+
+<br><br>
 
 <img src="https://raw.githubusercontent.com/nathaniellemuel/nathaniellemuel/output/snake.svg" alt="Contribution graph snake animation" />
 
